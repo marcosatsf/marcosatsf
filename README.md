@@ -9,6 +9,7 @@
 ### Favs Repos 😍
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=MarcosATSF&repo=PacmanGameOCLM)](https://github.com/marcosatsf/PacmanGameOCLM)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=MarcosATSF&repo=Dogolins)](https://github.com/marcosatsf/Dogolins)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=MarcosATSF&repo=coneg-project)](https://github.com/marcosatsf/coneg-project)
 
 <!--
 TODO
