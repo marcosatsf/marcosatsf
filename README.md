@@ -8,9 +8,10 @@
 
 ### Fav's Repos 😍😎👌🐱‍🚀
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=MarcosATSF&repo=PacmanGameOCLM&title_color=ef3f87&icon_color=f4d444&text_color=9f9f9f&bg_color=141321)](https://github.com/marcosatsf/PacmanGameOCLM)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=MarcosATSF&repo=Dogolins&title_color=ef3f87&icon_color=f4d444&text_color=9f9f9f&bg_color=141321)](https://github.com/marcosatsf/Dogolins)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=MarcosATSF&repo=mathematical_society&title_color=ef3f87&icon_color=f4d444&text_color=9f9f9f&bg_color=141321)](https://github.com/marcosatsf/mathematical_society)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=MarcosATSF&repo=coneg-project&title_color=ef3f87&icon_color=f4d444&text_color=9f9f9f&bg_color=141321)](https://github.com/marcosatsf/coneg-project)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=MarcosATSF&repo=CompilerProject&title_color=ef3f87&icon_color=f4d444&text_color=9f9f9f&bg_color=141321)](https://github.com/marcosatsf/CompilerProject)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=MarcosATSF&repo=Dogolins&title_color=ef3f87&icon_color=f4d444&text_color=9f9f9f&bg_color=141321)](https://github.com/marcosatsf/Dogolins) 
 
 <!--
 TODO
